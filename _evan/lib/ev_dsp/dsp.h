@@ -30,3 +30,7 @@
 #include "utils.h"
 #include "pan.h"
 #include "compressor.h"
+#include "envelope.h"
+#include "filter.h"
+#include "vcf.h"
+#include "meter.h"
